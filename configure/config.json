@@ -1,0 +1,8 @@
+{
+  "kafkaProducerTopic": "main-controller-api",
+  "redis_host": "localhost",
+  "redis_port": "6379",
+  "time_poll": 100,
+  "kafka_host": "localhost",
+  "kafka_port": "9092"
+}
